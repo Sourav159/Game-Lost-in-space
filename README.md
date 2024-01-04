@@ -4,6 +4,8 @@ Welcome to Lost in Space, an exciting space-themed game where you control a play
 ## Overview: 
 Lost in Space is a 2D game developed in C++ using the SplashKit library. The game features a player exploring space, collecting fuel, health, and level power-ups, while avoiding obstacles. The game includes a heads-up display (HUD) showing the player's score, location, fuel and health bars, and current level. The minimap displays the positions of power-ups and the player within the game world.
 
+### Watch a screencast of the game demonstration [here](https://video.deakin.edu.au/media/t/0_x6ulpyzp).
+
 ## How to Play: 
 
 ### Controls:
